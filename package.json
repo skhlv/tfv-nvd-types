@@ -1,11 +1,11 @@
 {
-  "name": "@thefaultvault/tfv-nvd-types",
+  "name": "tfv-nvd-types",
   "version": "1.3.0",
   "description": "National Vulnerability Database typescript definitions for data feeds.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thefaultvault/tfv-nvd-types.git"
+    "url": "https://github.com/skhlv/tfv-nvd-types.git"
   },
   "keywords": [
     "nvd",
@@ -19,7 +19,7 @@
   "author": "Jonathan Fasking",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thefaultvault/tfv-nvd-types/issues"
+    "url": "https://github.com/skhlv/tfv-nvd-types/issues"
   },
-  "homepage": "https://github.com/thefaultvault/tfv-nvd-types#readme"
+  "homepage": "https://github.com/skhlv/tfv-nvd-types#readme"
 }
